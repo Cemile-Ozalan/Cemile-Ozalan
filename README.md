@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**Cemile-Ozalan/Cemile-Ozalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Cemile 👋
 
-Here are some ideas to get you started:
+I'm a Mathematics student and Full-Stack Developer based in Türkiye.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have nearly one year of internship experience at Flalingo, working with React, JavaScript, PHP, Laravel, and PostgreSQL.
+
+I enjoy building practical web applications and turning ideas into working products.
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS
+
+**Backend:** PHP, Laravel
+
+**Database:** PostgreSQL, SQL
+
+**Tools:** Git, GitHub, Docker, Postman, Vercel
+
+## 🚀 Featured Project
+
+### CosmosQuest — Interactive Space Education
+
+An interactive astronomy learning platform designed for children aged 7–11.
+
+- 15 interactive exploration points
+- Educational activities for all eight planets
+- Drag-and-drop astronomy games
+- NASA APOD API integration
+- Responsive design
+
+**Built with:** React, TypeScript, CSS, NASA API
+
+🌐 [Live Website](https://cosmos-quest.vercel.app/)
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/cemile-ozalan) · [GitHub](https://github.com/Cemile-Ozalan)
+## Hi there 👋 
